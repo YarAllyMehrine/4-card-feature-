@@ -30,7 +30,6 @@
 .title {
     color: var(--dark-blue);
     font-weight: 200;
-    font-size: 1.7rem
 }
 
 .subtitle {
@@ -101,10 +100,6 @@ p {
     .card {
         width: 18rem;
         margin-left: 1rem;
-    }
-
-    .title {
-        font-size: 1.87rem;
     }
 
     .title-description {
