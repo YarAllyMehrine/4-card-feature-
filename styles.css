@@ -58,7 +58,9 @@ p {
 .card {
     width: 22rem;
     padding: 1rem;
-    margin-left: 3rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card-text {
